@@ -1,7 +1,6 @@
 import { HeaderCarousel } from "@/components/component/header-carousel";
 import { NavBar } from "@/components/component/nav-bar";
 import { FooterComponent } from "@/components/footer";
-import Image from "next/image";
 
 export default function Home() {
     return (

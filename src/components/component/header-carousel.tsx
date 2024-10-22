@@ -31,11 +31,12 @@ export function HeaderCarousel() {
     return (
         <Carousel
             className="w-full h-full"
-            autoPlay={{ delay: 5000, disableOnInteraction: false }}
-            navigation={{
-                nextEl: ".swiper-button-next",
-                prevEl: ".swiper-button-prev",
-            }}
+            // autoPlay={{ delay: 5000, disableOnInteraction: false }}
+
+            // navigation={{
+            //     nextEl: ".swiper-button-next",
+            //     prevEl: ".swiper-button-prev",
+            // }}
         >
             <CarouselContent>
                 <CarouselItem>
